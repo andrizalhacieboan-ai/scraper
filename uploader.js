@@ -10,7 +10,7 @@
 
 const axios = require('axios');
 const FormData = require('form-data');
-const path = require('path');a
+const path = require('path');
 
 /**
  * Mime Type 
