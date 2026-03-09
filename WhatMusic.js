@@ -5,7 +5,7 @@
 /*
 • Author : Andri Store
 
-• Nama fitur : uploader catbox.moe,Qu.ax dan termai.cc
+• Nama fitur : whatmusic
 */
 
 import axios from 'axios';
