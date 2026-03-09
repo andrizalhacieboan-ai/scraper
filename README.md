@@ -1,2 +1,2 @@
 ## scraper
-_Berikut adalaah scrape uploader cocok buat bot whtsapp anda_
+_Berikut adalaah kumpulan scrape  cocok buat bot whtsapp anda_
