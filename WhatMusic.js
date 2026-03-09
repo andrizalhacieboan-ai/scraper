@@ -1,4 +1,13 @@
-// lib/WhatMusic.js
+/*
+• Sumber : https://whatsapp.com/channel/0029VbBW0L5AYlUPmohzsS0Y
+*
+
+/*
+• Author : Andri Store
+
+• Nama fitur : uploader catbox.moe,Qu.ax dan termai.cc
+*/
+
 import axios from 'axios';
 import FormData from 'form-data';
 import fs from 'fs';
