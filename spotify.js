@@ -1,3 +1,13 @@
+/*
+• Sumber : https://whatsapp.com/channel/0029VbBW0L5AYlUPmohzsS0Y
+*
+
+/*
+• Author : Andri Store
+
+• Nama fitur : Spotify search & download
+*/
+
 import axios from 'axios'
 
 const ENTRY_URL = 'https://spotidown.app/en1'
