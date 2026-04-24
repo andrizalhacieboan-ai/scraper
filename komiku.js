@@ -1,3 +1,13 @@
+/*
+• Sumber : https://whatsapp.com/channel/0029VbBW0L5AYlUPmohzsS0Y
+*
+
+/*
+• Author : Andri Store
+
+• Nama fitur: komiku
+NOTED: Kalau kode kurang rapi, rapihin sendiri, klw kurang langkap, lengkapi sendiri pukimak... 
+*/
 
 
 import axios from 'axios'
